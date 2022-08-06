@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: full
+title-block-banner: true
+---
+
+# Projects
+
+### ggwaffle
+
+:::{.grid}
+
+:::{.g-col-4}
+:::{#img-badge}
+[![](figures/badges/ggwaffle.png)](https://github.com/liamgilbey/ggwaffle)
+:::
+:::
+
+:::{.g-col-8 .vh-center .center-text}
+`ggwaffle` works to help easily create waffle charts with `ggplot2` style syntax. ggwaffle is designed to work in a very similar way to the original [waffle package](https://github.com/hrbrmstr/waffle), while being slightly closer to the workflow of a standard ggplot graphic. Consequently, it is a little more verbose.
+
+:::
+:::
+
+### lambdapply
+
+:::{.grid}
+
+:::{.g-col-4}
+:::{#img-badge}
+[![](figures/badges/lambdapply.png)](https://github.com/liamgilbey/lambdapply)
+:::
+:::
+
+:::{.g-col-8 .vh-center .center-text}
+
+The goal of `lambdapply` is to enable R users to scale their R code using [AWS Lambda serverless compute service](https://aws.amazon.com/lambda/), with a familiar *apply syntax.
+:::
+:::
+
+<br>

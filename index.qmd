@@ -1,0 +1,39 @@
+---
+title: ""
+page-layout: full
+title-block-banner: true
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {#img-liam .center}
+![](figures/liam.png)
+:::
+
+:::
+
+
+::: {.g-col-8 .vh-center .center-text}
+## Welcome to my personal website
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-8}
+
+##### About me
+
+> lorem ipsum
+:::
+:::
+
+### My current position
+
+> __Air New Zealand, Auckland NZ__ <br>
+Data Science Chapter Lead<br> 
+Mar 2022--Present 
+
